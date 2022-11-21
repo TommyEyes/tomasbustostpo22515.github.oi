@@ -13,7 +13,7 @@
     box-sizing: border-box;
     outline: none; border:none;
     text-decoration: none;
-    text-transform: capitalize;
+    text-transform: none;
     transition: .2s linear;
 }
 
@@ -136,7 +136,7 @@ section{
 
 .home .content p{
     font-size: 2rem;
-    font-weight: lighter;
+    font-weight: strong;
     line-height: 1.8;
     padding:1rem 0;
     color:#010103;
